@@ -1,0 +1,199 @@
+STRATEGIC AI TRANSORMATION
+
+Who am I?
+Sanjay Saini
+More than 25 years, worked across different domains – healthcare, manufacturing, energy
+efficiency, banking etc.
+Wanted to be a fighter pilot, dolphins in my pool and horses in my farm
+Will be a co-learner along with you all during the session
+Would like to develop teams and organizations where I can send my kids to work
+FreshMart Grocers Need Help!
+FreshMart Grocers Need Help!
+What makes the AI strategy hard?
+Too much Tech
+Unclear Problem Statement Fear of imperfect Data
+Just one-off project
+Skill & Capability Gap Lack of Cross-Functional
+Governance
+AI Strategy for FreshMart Grocers
+Strategic Alignment
+Opportunity Discovery
+Implementation Roadmap
+Capability Development
+Risk & Governance
+AI Strategy
+Strategic Alignment
+Have we clearly
+defined how AI
+initiatives directly
+support business
+objectives?
+Does our leadership
+actively endorse AI
+as a strategic
+priority?
+Are AI initiatives
+included explicitly in
+our strategic plan?
+Have we identified
+clear business
+outcomes expected
+from AI initiatives?
+Is the AI strategy
+aligned and
+communicated
+across all business
+units?
+Have we clearly
+assessed our
+internal AI skills and
+identified capability
+gaps?
+Have we evaluated
+our current data
+maturity and
+infrastructure
+readiness?
+Is there a dedicated
+budget for AI skills
+training and
+infrastructure
+improvement?
+Do we regularly
+audit our readiness
+for upcoming AI
+projects?
+Do we know the
+external resources
+or partners needed
+to fill capability
+gaps?
+Have we
+identified and
+documented
+practical AI use
+cases across our
+business units?
+Have we
+conducted a
+formal AIopportunity
+prioritization
+exercise?
+Do we regularly
+involve business
+stakeholders in
+AI opportunity
+discovery
+workshops?
+Do we have a
+defined
+framework or
+criteria to
+prioritize AI
+projects (ROI,
+feasibility)?
+Is our leadership
+team actively
+involved in AI
+use-case
+selection?
+Have we
+defined a
+phased
+roadmap for AI
+implementation?
+Is there a
+structured
+process for
+piloting AI
+solutions before
+scaling?
+Have we clearly
+identified shortterm (quick-win)
+AI initiatives?
+Do we have
+contingency
+plans in place
+for AI project
+delays or
+challenges?
+Is the AI
+roadmap
+regularly
+reviewed and
+updated by
+stakeholders?
+Have we clearly
+identified key
+risks associated
+with our AI
+initiatives?
+Is there a formal
+governance
+framework for
+managing AI
+ethics and
+compliance?
+Have we clearly
+assigned
+accountability
+for AI initiatives
+at leadership
+level?
+Are our risk
+management
+practices
+regularly
+reviewed and
+adjusted?
+Do we have
+mechanisms to
+address ethical
+and regulatory
+considerations
+of AI?
+Business Case First Approach
+Instead of asking:
+“How can we use AI?”
+Start by asking:
+“What business problem is worth solving —
+and can AI help solve it better?
+1.
+Problem Statement
+2.
+Customers
+(Internal/External)
+3.
+Success Metrics (Business
+& Technical)
+4.
+Proposed Solution
+5.
+Costing & ROI
+6.
+Dependencies
+7.
+Data Requirements
+8.
+Risks & Challenges
+9.
+Release Roadmap
+10.
+Ethics, Compliance &
+Governance Requirements
+11.
+Change Management Plan
+AI Business Case
+AI Organization Structure
+AI Scaling Model
+1. Centralized CoE Model
+2. Decentralized AI Teams
+3. Hybrid Model
+4. AI as a Platform
+Reflection and Call to Action
+1. Which part of your AI strategy needs the most attention today?
+2. Is your organization asking the right questions – or chasing the right tools?
+3. What is the first use case you would put through your strategy?
+Want to run an AI Strategy Assessment or Workshop in
+your team or organisation?
+Let’s talk after the session.
